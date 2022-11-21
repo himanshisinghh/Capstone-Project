@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+element.style {
+}
+.page-header .panel-wrapper .panel-header .uPres a {
+    font-family: LatoSemiBold;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 1px;
+    text-align: right;
+    color: #ffffff;
+    background: url(/assets/gloryweb/images/icons/upload_rx.svg) no-repeat left center;
+    background-size: 24px;
+    padding-left: 32px;
+    height: 90px;
+    display: inline-block;
+}
