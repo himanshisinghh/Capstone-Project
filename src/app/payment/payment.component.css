@@ -1,3 +1,8 @@
+.row {
+    display: flex;
+    height: 100px;
+    justify-content: center;
+}
 html,
 body {
   height: 100%;
@@ -8,11 +13,11 @@ body {
 }
 
 .bg-show {
-  background-color: #3345399c;
+  background-color: #333545;
 }
 
 .text-show {
-  color: #058f668f;
+  color: #333545;
 }
 
 .rounded-5 {
@@ -80,7 +85,7 @@ body {
 
 .options:hover,
 .show-options:hover {
-  background-color: rgba(0, 0, 0, 0.658);
+  background-color: rgba(0, 0, 0, 0.459);
   color: #fff;
 }
 
@@ -112,5 +117,3 @@ body {
   margin: 0;
   font-family: Roboto, "Helvetica Neue", sans-serif;
 }
-
-
